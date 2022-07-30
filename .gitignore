@@ -1,0 +1,6 @@
+#Compiled files
+**/obj/
+**/bin/
+
+# Logs and debug information
+**/logs/
