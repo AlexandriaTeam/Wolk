@@ -4,3 +4,6 @@
 
 # Logs and debug information
 **/logs/
+
+# Visual Studio preference
+**/.vs/
